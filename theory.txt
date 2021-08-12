@@ -1,0 +1,6 @@
+HTML - hypertext markup language
+to create webpage
+widely used on web
+just a markup language
+
+hypertext
